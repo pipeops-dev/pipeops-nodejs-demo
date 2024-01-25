@@ -4,7 +4,7 @@ const port = 3000;
 
 // Define a route
 app.get('/', (req, res) => {
-  res.send('Hello, World!');
+  res.send('Welcome to Pipeops NodeJS Deployment!');
 });
 
 app.listen(port, () => {
