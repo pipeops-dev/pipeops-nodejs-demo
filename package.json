@@ -1,0 +1,27 @@
+{
+  "name": "pipeops-nodejs-demo",
+  "version": "1.0.0",
+  "description": "Sample NodeJS Pipeops App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipeops-dev/pipeops-nodejs-demo.git"
+  },
+  "keywords": [
+    "pipeops",
+    "nodejs",
+    "deployments"
+  ],
+  "author": "Ewere Diagboya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipeops-dev/pipeops-nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/pipeops-dev/pipeops-nodejs-demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
